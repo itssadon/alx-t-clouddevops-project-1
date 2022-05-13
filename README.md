@@ -1,4 +1,4 @@
-# alx-t-clouddevops-project-1
+# ALX-T Cloud DevOps Project-1
 
 Deploy Static Website on AWS
 
